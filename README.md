@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ash
 
-I have been an Application Support Engineer for the last 6 years and am currently studying development in my spare time.
+I have been an Application Support Engineer for the last 6 years and am currently studying development in my spare time. I'm comfortable using Python & Javascript and the concepts of Object Oriented Programming. 
 
 Skills: SQL / HTML / CSS / Javascript / Python / Git
 
