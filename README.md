@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Ash
 
-<!--
-**cove86/cove86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been an Application Support Engineer for the last 6 years and am currently studying development in my spare time.
 
-Here are some ideas to get you started:
+Skills: SQL / HTML / CSS / Javascript / Python / Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on completing cs50x aswell as updating some of my previous github projects. 
+- 🌱 I’m currently learning about data structures and algorithms 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/cove86)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/cove86/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/cove1986)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=cove86&show_icons=true)  
+
