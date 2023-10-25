@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ash
 
-I have been an Application Support Engineer for the last 8 years and am currently studying development in my spare time. In 2022 I moved to a different company and in my current role have been able to start to utilise the skills I have been learning over the last few years.  
+I have been an Application Support Engineer for the last 8 years and am currently studying development in my spare time. In 2022 I moved to a different company and in my current role have been able to utilise the skills I have been learning over the last few years.  
 
 Skills: SQL / HTML / CSS / Javascript / Python / Java / Git / Unix / Linux
 
